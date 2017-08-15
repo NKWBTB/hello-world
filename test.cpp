@@ -3,15 +3,10 @@
 
 using namespace std;
 
-int apb(int a, int b);
+int apb();
 int asb();
 int amb();
 int adb();
-
-int apb(int a, int b)
-{
-	return a + b;
-}
 
 int main()
 {
